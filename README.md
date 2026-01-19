@@ -1,16 +1,15 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Pedro+Lombardi;Software+Developer;Web+%26+Backend+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Pedro+Lombardi;Software+Developer;Web+%26+Backend" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Pedro Lombardi**, Técnico em **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web moderno**, APIs e aplicações escaláveis.  
-Tenho perfil prático, organizado e orientado a boas práticas de engenharia de software.
+Sou **Pedro Lombardi**, **Técnico em Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **web moderno**, APIs e aplicações bem estruturadas.
 
-Atuo tanto no **frontend** quanto no **backend**, sempre buscando código limpo, manutenível e bem documentado.
+Tenho experiência tanto em **frontend** quanto **backend**, priorizando organização, boas práticas e código de fácil manutenção.
 
 ---
 
@@ -51,5 +50,3 @@ Atuo tanto no **frontend** quanto no **backend**, sempre buscando código limpo,
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
-
----
