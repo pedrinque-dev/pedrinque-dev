@@ -53,7 +53,3 @@ Atuo tanto no **frontend** quanto no **backend**, sempre buscando código limpo,
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true" />
-</p>
