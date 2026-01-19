@@ -13,7 +13,7 @@ Tenho experiência tanto em **frontend** quanto **backend**, priorizando organiz
 
 ---
 
-## 🧠 Stack Principal
+## 🛠️ Stack Principal
 
 ### 💻 Desenvolvimento
 ![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
