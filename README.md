@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Pedro Lombardi, técnico em Análise e Desenvolvimento de Sistemas, atuando como desenvolvedor full stack.
+Sou Pedro Lombardi, técnico em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor full stack. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
 
 ---
 
