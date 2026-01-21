@@ -7,13 +7,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Pedro Lombardi**, **Técnico em Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **web moderno**, APIs e aplicações bem estruturadas.
-
-Tenho experiência tanto em **frontend** quanto **backend**, priorizando organização, boas práticas e código de fácil manutenção.
+Sou Pedro Lombardi, técnico em Análise e Desenvolvimento de Sistemas, atuando como desenvolvedor full stack.
 
 ---
 
-## 🛠️ Stack Principal
+## ⚙️ Stack Principal
 
 ### 💻 Desenvolvimento
 ![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -28,7 +26,7 @@ Tenho experiência tanto em **frontend** quanto **backend**, priorizando organiz
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-### ⚙️ Ferramentas
+### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
