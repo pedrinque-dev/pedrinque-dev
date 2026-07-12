@@ -1,3 +1,4 @@
+<!-- Banner animado -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Pedro+Lombardi;Software+Developer;Web+%26+Backend" alt="Typing SVG" />
 </p>
