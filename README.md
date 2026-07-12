@@ -43,5 +43,4 @@ Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o supe
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section
