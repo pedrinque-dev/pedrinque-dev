@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Pedro+Lombardi;Software+Developer;Web+%26+Backend" alt="Typing SVG" />
 </p>
 ---
-## 👨‍💻 Sobre mim
+## Sobre mim
 Sou Pedro Lombardi, técnico em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor full stack. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
 ---
-## ⚙️ Stack Principal
-### 💻 Desenvolvimento
+## Stack Principal
+### Desenvolvimento
 ![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +25,7 @@ Sou Pedro Lombardi, técnico em Análise e Desenvolvimento de Sistemas e atuo co
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![VSCode](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ---
-## 📫 Contato
+## Contato
 <p align="left">
   <a href="mailto:pedro.lombardi290@gmail.com">
     <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
