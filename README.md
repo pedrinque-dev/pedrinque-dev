@@ -1,6 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Pedro%20Lombardi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=140&width=100%25" width="100%"/>
+
+<pre>
+<b><span style="color:#38BDF8">pedro@dev</span></b>:<span style="color:#818CF8">~</span>$ whoami
+<span style="color:#06B6D4">Pedro Lombardi</span>
+<b><span style="color:#38BDF8">pedro@dev</span></b>:<span style="color:#818CF8">~</span>$ cat cargo.txt
+<span style="color:#06B6D4">Full Stack Developer</span>
+</pre>
+
 </div>
+
 <br>
 <img align="right" width="380" src="https://raw.githubusercontent.com/lucianoperez/lucianoperez/master/dev-illustration.gif" onerror="this.style.display='none'">
 
@@ -44,4 +54,4 @@ Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o supe
 </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=90&width=100%25" width="100%"/>
