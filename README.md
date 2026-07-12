@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Pedro%20Lombardi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Pedro%20Lombardi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=20" width="100%"/>
 </div>
 <br>
 <img align="right" width="380" src="https://raw.githubusercontent.com/lucianoperez/lucianoperez/master/dev-illustration.gif" onerror="this.style.display='none'">
