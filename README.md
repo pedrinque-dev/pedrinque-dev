@@ -15,10 +15,10 @@ Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o supe
 <div align="center">
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
 
 ### Back-end
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django,cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,cs,dotnet" />
 
 ### Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
