@@ -1,8 +1,6 @@
 <h1 align="center">Pedro Lombardi</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<br>
-
 ## Sobre mim
 
 Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o superior na mesma área, aprofundando o que comecei no técnico. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
