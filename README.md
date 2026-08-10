@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o superior na mesma área, aprofundando o que comecei no técnico. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
+Sou Técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o Superior em ADS, dando continuidade à minha formação na área. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
 
 ---
 
@@ -11,11 +11,11 @@ Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o supe
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,vite" />
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,cs" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django" />
 
 **Banco de Dados**
 
