@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Sou Técnico em Análise e Desenvolvimento de Sistemas e atualmente curso o Superior em ADS, dando continuidade à minha formação na área. Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, com foco em soluções bem estruturadas e funcionais. Busco evoluir constantemente, aprimorando minhas habilidades e construindo projetos que reforcem meu aprendizado e crescimento profissional.
+Sou Técnico em Análise e Desenvolvimento de Sistemas e atualmente curso a graduação na mesma área. Tenho experiência com desenvolvimento web, tanto no front-end quanto no back-end, e gosto de aprender na prática, encarar novos desafios e desenvolver projetos que me façam evoluir cada vez mais.
 
 ---
 
